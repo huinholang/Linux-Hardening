@@ -1,5 +1,5 @@
 # Linux-Hardening
-Really nice Linux hardening scripts ( ဖ ͜  ဖ )
+Really nice Linux hardening scripts (ဖ ͜  ဖ)
 
 Why it's really nice?
 1. Written in Bash.
