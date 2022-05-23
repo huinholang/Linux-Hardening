@@ -1,6 +1,6 @@
 # Linux-Hardening
 Really nice Linux hardening scripts (ဖ ͜  ဖ)
-The script is based on the knoledge built by the Experts who create the CIS Benchmark document (https://www.cisecurity.org/)
+The script is based on the knoledge built by the Experts who create the CIS Benchmark document (https://www.cisecurity.org/).
 
 Why it's really nice?
 1. Written in Bash.
