@@ -1,21 +1,36 @@
 # Linux-Hardening
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
 Really nice Linux hardening scripts ( ͡° ͜ʖ ͡°)
 
-The script is based on the knoledge built by the Experts who create the CIS Benchmark document (https://www.cisecurity.org/). Special thank's to:
+The script is based on the knoledge built by the Experts who create the [CIS Benchmark](https://www.cisecurity.org/). Special thanks to:
 
-https://github.com/radsec/CentOS7-CIS
+[CentOS7-CIS](https://github.com/radsec/CentOS7-CIS)
 
-https://github.com/Jsitech/JShielder
+[JShielder](https://github.com/Jsitech/JShielder)
 
+## Technologies
 Why it's really nice?
-1. Written in Bash.
-2. Working on:
+* Written in Bash.
+* Working on:
 - [x] CentOS
 - [ ] Ubuntu/Debian
 - [ ] SUSE
-3. Easy to use.
+* Easy to use.
+
+## Setup
 How to:
 
-`sudo chmod +x hardening-centos.sh`
-
-`sudo ./hardening-centos.sh`
+Add execute permissions:
+```
+sudo chmod +x hardening-centos.sh
+```
+Run the script:
+```
+sudo ./hardening-centos.sh
+```
